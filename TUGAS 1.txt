@@ -1,0 +1,19 @@
+﻿Notasi kalimat deskriptif dalam algoritma digunakan untuk menjelaskan langkah-langkah penyelesaian masalah secara rinci namun tidak dalam bentuk kode program. Berikut adalah contoh notasi kalimat deskriptif pada algoritma untuk mencari bilangan terbesar dari dua bilangan:
+
+1. Mulai
+
+
+2. Baca input dua bilangan, yaitu A dan B
+
+
+3. Jika A lebih besar dari B, maka tampilkan "A adalah bilangan terbesar"
+
+
+4. Jika tidak, tampilkan "B adalah bilangan terbesar"
+
+
+5. Selesai
+
+
+
+Notasi deskriptif ini memberikan pemahaman terhadap langkah-langkah yang diambil tanpa menggunakan bahasa pemrograman spesifik.
